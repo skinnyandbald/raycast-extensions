@@ -264,7 +264,7 @@
     "bindings": "^1.5.0",
     "dayjs": "^1.11.13",
     "open": "^8.4.0",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^6.0.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.5",
