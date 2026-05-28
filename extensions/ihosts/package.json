@@ -88,7 +88,7 @@
     "@raycast/api": "^1.44.0",
     "raycast-toolkit": "^1.0.6",
     "run-applescript": "^6.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/uuid": "^8.3.4",
