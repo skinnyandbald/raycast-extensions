@@ -49,7 +49,7 @@
     "@raycast/api": "^1.95.0",
     "@raycast/utils": "^1.17.0",
     "nostr-tools": "^2.12.0",
-    "ws": "^8.18.1"
+    "ws": "^8.21.0"
   },
   "devDependencies": {
     "@noble/hashes": "^1.7.2",
