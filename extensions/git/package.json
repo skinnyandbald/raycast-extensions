@@ -145,7 +145,7 @@
     "@raycast/utils": "^2.2.1",
     "fast-fuzzy": "^1.12.0",
     "file-type": "^21.0.0",
-    "nanoid": "^5.1.5",
+    "nanoid": "^5.1.16",
     "simple-git": "^3.27.0"
   },
   "devDependencies": {
